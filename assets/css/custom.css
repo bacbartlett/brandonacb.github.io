@@ -1,0 +1,13 @@
+.slightly-browned{
+    background-color: #fff8f5;
+}
+
+.extra-margin-to-ceter-me-photo{
+    margin-top: 42px;
+}
+
+.moving-down-to-display{
+    background-color: black;
+    position: absolute;
+    top: 300px
+}
